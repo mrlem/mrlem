@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a french developer:
+* 💼 currently working in Android development
+* 🔎 mainly focused on Kotlin (android, multiplatform, server-side)
+* 🐧 using Linux on a daily basis
+* 🎮 with a keen interest for game development
+* 🌿 trying to build sustainable software
+
 <!--
 **mrlem/mrlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
