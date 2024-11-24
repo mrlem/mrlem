@@ -1,23 +1,10 @@
-## Hi there 👋
+## Hi, I'm Seb 👋
 
 I'm a french developer:
 * 💼 currently working in Android development
 * 🔎 mainly focused on Kotlin (android, multiplatform, server-side)
 * 🐧 using Linux on a daily basis
 * 🎮 with a keen interest for game development
-* 🌿 trying to build sustainable software
+* 🌿 trying to build sustainable software, as part of a broader life-approach
 
-<!--
-**mrlem/mrlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my repositories are playgrounds that I used at one moment or anothe, out of curiosity. Feel free to browse 😀
